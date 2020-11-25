@@ -1,0 +1,46 @@
+Welcome to War.
+#cards in hand1: 26#cards in hand2: 26
+#(cards in hand1)=25 #(cards in hand2)=25 #(cards in stack1)=1 #(cards in stack2)=1
+null null
+In round 1 #cards in hand1: 25#cards in hand2: 25
+#(cards in hand1)=24 #(cards in hand2)=24 #(cards in stack1)=1 #(cards in stack2)=1
+2s As
+Player 1 gets the cards
+In round 2 #cards in hand1: 26#cards in hand2: 24
+#(cards in hand1)=25 #(cards in hand2)=23 #(cards in stack1)=1 #(cards in stack2)=1
+null As
+In round 3 #cards in hand1: 25#cards in hand2: 23
+#(cards in hand1)=24 #(cards in hand2)=22 #(cards in stack1)=1 #(cards in stack2)=1
+As As
+#(cards in hand1)=24 #(cards in hand2)=22 #(cards in stack1)=1 #(cards in stack2)=1
+War!
+As As
+#(cards in hand1)=20 #(cards in hand2)=18 #(cards in stack1)=5 #(cards in stack2)=5
+War!
+As As
+#(cards in hand1)=16 #(cards in hand2)=14 #(cards in stack1)=9 #(cards in stack2)=9
+War!
+As As
+#(cards in hand1)=12 #(cards in hand2)=10 #(cards in stack1)=13 #(cards in stack2)=13
+War!
+As As
+#(cards in hand1)=8 #(cards in hand2)=6 #(cards in stack1)=17 #(cards in stack2)=17
+War!
+As As
+#(cards in hand1)=4 #(cards in hand2)=3 #(cards in stack1)=20 #(cards in stack2)=20
+War!
+As As
+#(cards in hand1)=3 #(cards in hand2)=3 #(cards in stack1)=20 #(cards in stack2)=20
+War!
+As As
+#(cards in hand1)=2 #(cards in hand2)=3 #(cards in stack1)=20 #(cards in stack2)=20
+War!
+As As
+#(cards in hand1)=1 #(cards in hand2)=3 #(cards in stack1)=20 #(cards in stack2)=20
+War!
+As As
+#(cards in hand1)=0 #(cards in hand2)=3 #(cards in stack1)=20 #(cards in stack2)=20
+War!
+Player 2 gets the cards
+Player 2 wins!
+In round 4 #cards in hand1: 0#cards in hand2: 43
